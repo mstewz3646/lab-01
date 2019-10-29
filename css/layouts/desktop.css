@@ -1,0 +1,37 @@
+/* assistance from Conor McCue */
+
+body {
+  max-width: 960px;
+}
+
+header {
+  width: 960px;
+  min-height: 100px;
+}
+
+aside {
+  max-width: 200px;
+  max-height: 600px;
+}
+
+main {
+  max-width: 960px;
+}
+
+article {
+  width: 380px;
+  max-height: 200px;
+  float: left;
+}
+
+section {
+  width: 190px;
+  max-height: 250px;
+  float: left;
+}
+
+footer {
+  width: 760;
+  max-height: 150px;
+  float: left;
+}
