@@ -2,14 +2,16 @@
 
 body {
   max-width: 960px;
+  border: 1px  black;
 }
 
-header {
+#a {
   width: 960px;
   min-height: 100px;
+  border: 1px  black;
 }
 
-aside {
+#b {
   max-width: 200px;
   min-height: 600px;
 }
